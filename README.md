@@ -1,6 +1,5 @@
-Hi, I’m ✨@skelly✨ 
 
-- I’m currently learning programming in School 21(Ecole 42)
+<img src="https://badge42.herokuapp.com/api/stats/skelly?privacyEmail=true"/>
 
 <!--
 **evgeniya-burlachenko/evgeniya-burlachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
