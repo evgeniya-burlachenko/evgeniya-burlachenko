@@ -7,5 +7,5 @@
  
 <!-- [![download-cv-button (1)](https://user-images.githubusercontent.com/63720882/174808842-bc26c0ac-6ac0-4d5a-9fa9-11595e3d7493.png )](https://evgeniya-burlachenko.github.io/rsschool-cv/) -->
 
-[![download-cv-button (1)](https://esipova.net/images/cv.png)](https://evgeniya-burlachenko.github.io/rsschool-cv/)
+[![download-cv-button (1)](https://edsro.center/wp-content/uploads/2018/04/nrs-servic-4.png)](https://evgeniya-burlachenko.github.io/rsschool-cv/)
 
