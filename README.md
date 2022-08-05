@@ -7,5 +7,5 @@
  
 <!-- [![download-cv-button (1)](https://user-images.githubusercontent.com/63720882/174808842-bc26c0ac-6ac0-4d5a-9fa9-11595e3d7493.png )](https://evgeniya-burlachenko.github.io/rsschool-cv/) -->
 
-[![download-cv-button (1)](https://www.ranepa.ru/upload/iblock/0c3/filecvpng-guillaume-cv-png-833_833.png)](https://evgeniya-burlachenko.github.io/rsschool-cv/)
+[![download-cv-button (1)](https://pngimg.com/uploads/cv/small/cv_PNG20.png)](https://evgeniya-burlachenko.github.io/rsschool-cv/)
 
